@@ -1,0 +1,7 @@
+title: New Stuff
+author: Nick Gordon
+date: 2016/04/19
+
+So I decided I'd try and set up a little blog for myself, for a number of reasons. For one, it gives me something to do with programming, which is something I'm probably getting decidedly rusty on after January. It's webdev as well, which is a hole in my resume you could drive a boat through, especially in this day'n'age of unicorn startups. And hopefully it'll prove a healthy outlet for whatever pent-up emotions a 22-year-old might bottle up, or at the very least won't embarass me much. We'll see. 
+
+I'm planning on doing both a professional and personal blog up here, as well as spotlight whatever side projects I'm working on. If I'm feeling crazy, maybe I'll throw my creative writing up here as well, but I don't know if my psyche is ready for that kind of scrutiny in my formative years. I guess I should also figure out how to host this little blog, as right now I'm writing this entry through a CLI for a local Rails server that's just hosted through Heroku. Who knows. Either way, the Pens game is starting and is obviously priority number one right now. So I'll check back in later. Au revoir. 
